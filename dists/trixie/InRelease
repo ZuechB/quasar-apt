@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: trixie
+Components: main
+Date: Tue, 24 Nov 2026 23:52:45 +0000
+Valid-Until: Sat, 23 Jan 2027 23:52:45 +0000
+Description: Quasar's own packages
+Label: Quasar
+Origin: Quasar
+Suite: trixie
+SHA256:
+ 29f289ee34ef42bf787f38df68f347f7d7bca0857b9734ef1c17447bf431e215            14068 main/binary-amd64/Packages
+ a63ab2be995b5237af4230303463a8901f0b8d945a8749028d6ea6d0f9f87b76             5836 main/binary-amd64/Packages.gz
+ efaf6f15a5eb9e9b1ba5a454e0d77216cf2958194eb88a38ed1adfdd2c3cc96b             5560 main/binary-amd64/Packages.xz
+SHA512:
+ 5e7f21582563401d2755ee441c6ceceb84f91fca13ec036665638db2fa18b83e9a4f35cc351cfc71f009e7c5b1d15746eb3d60274ad1ffd02fe5a6a5b994b262            14068 main/binary-amd64/Packages
+ 2c048fe5e5a4a9bce67f397d4dc22120fd4842568c114c5464e8ea2686984885a6c3271cbc1b573515725c79cfc830a5f08486f0923e8c0fbb7e2cd8bc9d9cff             5836 main/binary-amd64/Packages.gz
+ 06683d78bd0d0da657b8f9599fe75fb948431e6c3af0e1feafab15b32a1890102959aeff57a027769554be0129793d39add1f162017e2103a73e2042e34f8d83             5560 main/binary-amd64/Packages.xz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQTBoQUh2FiMQkOnaQmG+RpBfaz/QgUCawYjTQAKCRCG+RpBfaz/
+QlDLAP937/7qdrmMFnTwWWYLxyxE/EbW/eoaF1Iwmwylm3ErfgD/bnTHjzPTz5/n
+N3ljlmeFWMRufcsbQJh6Uh8m6+Ki0AU=
+=zDPZ
+-----END PGP SIGNATURE-----
